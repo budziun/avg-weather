@@ -1,6 +1,6 @@
 # 🌤️ AVG Weather - Aplikacja Pogodowa
 
-![AVG Weather Logo](./screenshots/index.jpg)
+![AVG Weather Logo](./screenshots/index.png)
 
 ## 📋 Opis projektu
 
@@ -18,7 +18,7 @@ AVG Weather to nowoczesna aplikacja pogodowa, która pobiera dane z **9 różnyc
 
 ## 🔗 Używane API
 
-![Używane API](./screenshots/api.jpg)
+![Używane API](./screenshots/api.png)
 
 Aplikacja korzysta z następujących źródeł danych:
 
@@ -38,7 +38,7 @@ Aplikacja korzysta z następujących źródeł danych:
 
 ## 📱 Jak używać
 
-![Interfejs aplikacji](./screenshots/data.jpg)
+![Interfejs aplikacji](./screenshots/data.png)
 
 1. **Wpisz nazwę miasta** w Polsce (np. Warszawa, Kraków, Olsztyn)
 2. **Kliknij "Sprawdź pogodę"** lub naciśnij Enter
@@ -49,7 +49,7 @@ Aplikacja korzysta z następujących źródeł danych:
    - Statystyki pogodowe
    - Informacje o używanych źródłach
 
-![Wyniki wyszukiwania](./screenshots/result.jpg)
+![Wyniki wyszukiwania](./screenshots/result.png)
 
 ## 🌐 Najlepsza wydajność
 
