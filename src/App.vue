@@ -957,8 +957,11 @@ h1 {
 }
 
 /* Ukryj na małych ekranach */
-@media (max-width: 768px) {
+@media (max-width: 400px) {
   .hero-text h1 {
+    display: none;
+  }
+  .hero-text h2 {
     display: none;
   }
 }
