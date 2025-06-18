@@ -1,4 +1,7 @@
 # 🌤️ AVG Weather - Aplikacja Pogodowa
+## 🚀 Demo
+
+**Aplikacja dostępna online:** [https://budziun.github.io/avg-weather/](https://budziun.github.io/avg-weather/)
 
 ![AVG Weather Logo](./screenshots/index.png)
 
@@ -31,10 +34,6 @@ Aplikacja korzysta z następujących źródeł danych:
 - **Airly API** - Polska sieć czujników jakości powietrza
 - **7Timer! API** - Specjalistyczne prognozy pogodowe
 - **WeatherAPI** - Darmowy backup API pogodowy
-
-## 🚀 Demo
-
-**Aplikacja dostępna online:** [https://budziun.github.io/avg-weather/](https://budziun.github.io/avg-weather/)
 
 ## 📱 Jak używać
 
