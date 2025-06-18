@@ -955,6 +955,13 @@ h1 {
   color: #222;
   letter-spacing: 1px;
 }
+
+/* Ukryj na małych ekranach */
+@media (max-width: 768px) {
+  .hero-text h1 {
+    display: none;
+  }
+}
 .error {
   background: linear-gradient(135deg, #e74c3c, #c0392b);
   color: white;
