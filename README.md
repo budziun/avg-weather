@@ -78,5 +78,4 @@ Dla **najlepszej responsywności i płynności** aplikacji zalecamy używanie pr
 - **Dynamic backgrounds** według pogody
 - **Glassmorphism UI** design
 
-## 🏗️ Instalacja lokalna
 
